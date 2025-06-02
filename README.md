@@ -13,3 +13,11 @@ Base de html y css para la creación de sitios pertenecientes a la Administraci�
 
 En este repositorio podés descargar los archivos de Poncho para trabajar de manera local.
 Esta nueva versión de Poncho incluye cambios de colores y otros elementos que mejoran cuestiones de accesibilidad.
+
+# Actividad 3 - Agregar un apartado al README.md con links y descripciones de al menos 2 herramientas web para aprender ramas en Git
+
+- [Learn Git Branching](https://learngitbranching.js.org/):  
+  Simulador interactivo que permite practicar ramas, merge y rebase con visualización en tiempo real.
+
+- [Git School – Visualizing Git](https://git-school.github.io/visualizing-git/):  
+  Herramienta gráfica para entender cómo funcionan las ramas y los commits en Git de forma visual.
