@@ -17,6 +17,6 @@ Se produjo un conflicto en el archivo README.md, ya que había cambios diferente
 - Combiné las dos.
 - Guardé los cambios.
 ```bash
-git add README.md
+git add .
 git commit -m "Resuelvo conflicto de merge en README.md"
 ```
